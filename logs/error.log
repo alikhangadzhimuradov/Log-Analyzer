@@ -1,0 +1,4 @@
+[2023-10-01 12:34:56] ERROR 500 Database Connection Failed
+[2023-10-01 12:35:01] WARNING 401 Unauthorized
+[2023-10-01 13:10:22] ERROR 404 Page Not Found
+[2023-10-01 14:15:00] ERROR 503 Service Unavailable
