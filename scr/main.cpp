@@ -1,5 +1,5 @@
 #include <iostream>
-#include "/Users/alikhangadzhimuradov/Desktop/LogAnalyzer/include/LogAnalyzer.h"
+#include "LogAnalyzer.h"
 #include <vector>
 #include <string>
 
