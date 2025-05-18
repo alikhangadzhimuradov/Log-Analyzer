@@ -1,4 +1,4 @@
-#include "/Users/alikhangadzhimuradov/Desktop/LogAnalyzer/include/LogAnalyzer.h"
+#include "LogAnalyzer.h"
 #include <fstream>
 #include <iostream>
 #include <chrono>
