@@ -7,8 +7,8 @@ int main() {
     LogAnalyzer analyzer;
     
     std::vector<std::string> logFiles = {
-        "/Users/alikhangadzhimuradov/Desktop/LogAnalyzer/logs/access.log",
-        "/Users/alikhangadzhimuradov/Desktop/LogAnalyzer/logs/error.log"
+        "access.log",
+        "error.log"
     };
 
     analyzer.analyze(logFiles);
